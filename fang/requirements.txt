@@ -45,7 +45,7 @@ datashape==0.5.4
 decorator==4.3.0
 defusedxml==0.6.0
 distributed==1.23.1
-Django==1.8.2
+Django==1.11.28
 docutils==0.14
 entrypoints==0.3
 et-xmlfile==1.0.1
